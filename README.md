@@ -1,6 +1,7 @@
 # Hi there, I'm [Elif]! 👋
 
-![Banner Image](https://www.canva.com/design/DAGUf_Kg6g8/tnJZ0nEzUURz6dX8-c451w/view?utm_content=DAGUf_Kg6g8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+![Banner Image](![Elif’s world](https://github.com/user-attachments/assets/1f0d0447-d16f-4f60-bb75-6e4dfc0ce369)
+
 
 ## About Me 🚀
 
