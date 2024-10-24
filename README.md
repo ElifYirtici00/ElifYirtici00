@@ -1,6 +1,6 @@
 # Hi there, I'm [Elif]! 👋
 
-(![Elif’s world](https://github.com/user-attachments/assets/1f0d0447-d16f-4f60-bb75-6e4dfc0ce369)
+![Elif’s world](https://github.com/user-attachments/assets/1f0d0447-d16f-4f60-bb75-6e4dfc0ce369)
 
 
 ## About Me 🚀
