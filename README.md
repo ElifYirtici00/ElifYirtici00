@@ -5,13 +5,13 @@
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[java]**
 - 🔭 Working on: **[c++]**
 - 🌍 Languages: **[English and Turkish]**
 - 📫 How to reach me: **[yirticielifeylul@gmail.com]**
-- ⚡ Fun fact: **[I love traveling]**
+- ⚡ Fun fact: **[I am addicted to chocolate ]**
 
 
 ## Get in Touch 📬
