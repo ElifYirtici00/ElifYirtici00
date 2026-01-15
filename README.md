@@ -7,11 +7,11 @@
 
 I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[java]**
-- 🔭 Working on: **[c++]**
+- 🌱 Currently learning: **[go]**
+- 🔭 Working on: **[c++,c#]**
 - 🌍 Languages: **[English and Turkish]**
 - 📫 How to reach me: **[yirticielifeylul@gmail.com]**
-- ⚡ Fun fact: **[I am addicted to chocolate ]**
+- ⚡ Fun fact: **[I am addicted to travel somewhere that I have no idea about it]**
 
 
 ## Get in Touch 📬
