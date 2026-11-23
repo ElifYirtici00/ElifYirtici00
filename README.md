@@ -1,46 +1,116 @@
-Hi, I'm Elif! 👋
-Software Engineering Undergraduate | Full-Stack Development | Big Data & AI
 
-I'm a Software Engineering undergraduate at Sakarya University, Türkiye, interested in building reliable applications, working with data-intensive systems, and exploring responsible, accessible AI. I enjoy solving technical challenges, learning through hands-on projects, and collaborating across cultures.
+# Hi there, I'm Elif! 👋
 
-🛠️ Technical toolkit
-Area	Technologies & tools
-Programming	Python, Java, C++, C#
-Frontend	React, JavaScript, Vite
-Backend	Spring Boot, Spring Data JPA, REST APIs
-Data & distributed systems	MySQL, Redis, Apache Hadoop / HDFS
-Document processing	Tesseract OCR, PDF/image text extraction, automated testing
-Development workflows	Git, GitHub, Linux / WSL, VS Code, Gradle
+### Software Engineering Student | Full-Stack Development | Big Data & AI
 
+I'm a Software Engineering student at **Sakarya University, Türkiye**, passionate about developing practical software solutions, exploring emerging technologies, and collaborating with international teams.
 
-Currently exploring: Apache Kafka, Apache Spark, Cassandra, multilingual NLP, and open-source language-model evaluation.
+I enjoy solving complex problems, learning new technologies, and building projects that make a real-world impact.
 
-🚀 Selected projects
-📚 Library Management System
-Full-stack application using Java / Spring Boot, React, and MySQL to manage books, members, and borrowing records. The documented implementation uses Redis with Spring Cache for selected ID-based reads, Hadoop HDFS for member photos, and JasperReports for PDF reports. Includes REST endpoints for core records.
-🧳 Travel Management Platform
-A full-stack travel platform built with Spring Boot, Spring Data JPA, React/Vite, and MySQL, covering authentication, travel-package management, reservations, and a responsive interface.
-📄 Document OCR & Text Extraction — University Team Project
-Contributed to Python-based text extraction from PDF, JPG, JPEG, and PNG files with Tesseract OCR and Turkish-language support. Worked on validation, automated tests, feature branches, and pull requests.
-📊 Distributed Data Processing — Big Data Studies
-Exploring data-processing concepts and workflows using Hadoop/HDFS, Redis, and a Kafka–Spark–Cassandra pipeline. This is ongoing coursework and experimentation, rather than a claimed production deployment.
+---
 
-🌍 Experience & involvement
-- ERPTOREN LTD — SAP training and student success: Support international student onboarding, SAP training access, learning-platform operations, scheduling, and cross-team coordination.
-- University academic coordination: Experience supporting international academics and university administration alongside my studies.
-- International experiences: Internship experience in Italy and volunteer experience in Egypt, strengthening my cross-cultural teamwork and communication.
-- Youth & climate engagement: Participated as a youth panelist at COP31 in Antalya, contributing to discussions about young people's place in climate decision-making.
+## 👩‍💻 About Me
 
-🌱 Interests
-Software Engineering · Full-Stack Development · Big Data · Distributed Systems · AI/NLP · Open-Source Research · SAP/ERP · Sustainability
+- 🎓 Studying **Software Engineering** at Sakarya University
+- 💻 Interested in **Full-Stack Development, Big Data, AI, and Data Engineering**
+- 🌱 Currently exploring **Go, distributed systems, and AI technologies**
+- 🌍 Experienced in international teamwork and cross-cultural collaboration
+- ✈️ Passionate about traveling, discovering new cultures, and volunteering
+- 🗣️ Languages: **Turkish & English**
 
-🤝 Let's connect
+---
 
-- 💼 LinkedIn https://www.linkedin.com/in/elif-yirtici/
-- 📧 Email elif.yirtici@ogr.sakarya.edu.tr
-- 💻 GitHub https://github.com/ElifYirtici00
-Languages: Turkish and English
+## 🛠️ Technical Skills
 
-Outside of technology: I love exploring new places, meeting people from different cultures, and learning from new perspectives.
+**Programming Languages**
+- Python, Java, C++, C#, JavaScript
 
-Open to international internship, research, and collaborative software development opportunities.
+**Frontend & Backend**
+- React, Vite, Spring Boot, Spring Data JPA, REST APIs
+
+**Big Data & Databases**
+- Apache Hadoop, HDFS, Redis, MySQL
+- Exploring Apache Kafka, Apache Spark, and Cassandra
+
+**Tools & Technologies**
+- Git, GitHub, Linux, WSL, VS Code, Tesseract OCR, Gradle
+
+---
+
+## 🚀 Featured Projects
+
+### 📚 1. Library Management System | Big Data
+**Technologies:** Java, Spring Boot, React, MySQL, Redis, Hadoop HDFS
+
+A full-stack library management application integrating traditional database operations with Big Data technologies.
+
+- Developed REST APIs for managing books, members, and borrowing records
+- Integrated **Redis caching** to optimize selected database operations
+- Used **Hadoop HDFS** for distributed file storage
+- Implemented PDF reporting with JasperReports
+
+🔗 [View Project](https://github.com/ElifYirtici00/Library-Management-System)
+
+### 🧳 2. Travel Management Platform
+**Technologies:** Java, Spring Boot, React, Vite, MySQL
+
+A full-stack travel management system designed to manage travel packages and reservations.
+
+- Implemented backend services and database integration
+- Worked on authentication and authorization
+- Developed a responsive frontend interface
+
+🔗 [View Project](https://github.com/ElifYirtici00/DIMS-FinalProject)
+
+### 📄 3. Document OCR & Text Extraction
+**Technologies:** Python, Tesseract OCR, Git, Automated Testing
+
+A collaborative university software engineering project focused on extracting text from documents.
+
+- Implemented text extraction from PDF and image files
+- Supported Turkish-language OCR processing
+- Developed and validated automated tests
+- Collaborated through Git branches and pull requests
+
+🔗 [View Project](https://github.com/SAU-SPM-26/team-3)
+
+### 📊 4. Distributed Data Processing
+**Technologies:** Apache Kafka, Apache Spark, Cassandra, Hadoop
+
+An ongoing academic exploration of distributed data processing, including data pipelines, storage, and large-scale data management.
+
+---
+
+## 💼 Professional & International Experience
+
+### ERPTOREN LTD | SAP Training & Student Success
+- Coordinate international SAP training operations and student onboarding
+- Support SAP system access, technical troubleshooting, and learning platforms
+- Collaborate with international teams on educational and digital projects
+
+### International Experience
+- Participated in an internship experience in **Italy**
+- Worked in international academic coordination and volunteering activities
+- Participated as a youth panelist at **COP31 in Antalya**, contributing to discussions about youth participation and climate action
+
+---
+
+## 🌱 Areas of Interest
+
+- Artificial Intelligence & Natural Language Processing
+- Big Data & Distributed Systems
+- Software Engineering & Full-Stack Development
+- Data Engineering & Analytics
+- Open-Source Technologies
+
+---
+
+## 📬 Let's Connect!
+
+- 💼 **LinkedIn:** [Elif Yırtıcı](https://www.linkedin.com/in/elif-y%C4%B1rt%C4%B1c%C4%B1-315073292/)
+- 📧 **Email:** [yirticielifeylul@gmail.com](mailto:yirticielifeylul@gmail.com)
+- 💻 **GitHub:** [ElifYirtici00](https://github.com/ElifYirtici00)
+
+---
+
+*Always learning, building, and exploring new opportunities around the world.* 🌍
